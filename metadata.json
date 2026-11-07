@@ -1,0 +1,6 @@
+{
+  "name": "SGA - Sistema de Gestión Académica",
+  "description": "Sistema de Gestión Académica para Instituciones de Educación Superior diseñado con Arquitectura en Capas (Presentación, Controladores, Dominio y Persistencia) con soporte para RF-01 a RF-12 y RNF-01 a RNF-09.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
